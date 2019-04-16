@@ -48,5 +48,8 @@
       "eslint",
       "git add"
     ]
+  },
+  "dependencies": {
+    "@react-native-community/geolocation": "^1.1.0"
   }
 }
