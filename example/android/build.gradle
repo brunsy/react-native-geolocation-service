@@ -2,11 +2,11 @@
 
 buildscript {
     ext {
-        buildToolsVersion = "27.0.3" //required for gradle:3.1.4
+        buildToolsVersion = "28.0.3" //required for gradle:3.1.4
         minSdkVersion = 16
-        compileSdkVersion = 26
-        targetSdkVersion = 26
-        supportLibVersion = "26.1.0"
+        compileSdkVersion = 28
+        targetSdkVersion = 28
+        supportLibVersion = "38"
     }
     repositories {
         jcenter()

@@ -43,11 +43,12 @@ No additional setup is required, since it uses the React Native's default Geoloc
      + Project-wide Gradle configuration properties
      */
     ext {
-        compileSdkVersion   = 25
-        targetSdkVersion    = 25
-        buildToolsVersion   = "25.0.2"
-        supportLibVersion   = "25.0.1"
-        googlePlayServicesVersion = "11.0.0"
+        compileSdkVersion   = 28
+        targetSdkVersion    = 28
+        buildToolsVersion   = "28.0.3"
+        supportLibVersion   = "38"
+        googlePlayServicesVersion = "16.1.0"
+        googlePlayServicesLocationVersion = "16.0.0"
     }
     ```
 
